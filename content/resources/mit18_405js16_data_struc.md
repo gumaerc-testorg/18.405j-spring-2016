@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding data structure lower bounds
   via communication complexity. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-405j-advanced-complexity-theory-spring-2016/f373ff7db6f99debba9256050d372980_MIT18_405JS16_Data_Struc.pdf
+file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/f373ff7db6f99debba9256050d372980_MIT18_405JS16_Data_Struc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Advanced Complexity Theory: A Survey of Communication Complexity for Proving
   Lower Bound of Data Structures in Cell-Probe Model'

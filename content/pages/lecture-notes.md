@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 448cb1cc-f997-aa14-9c10-ecb4f6a7ad1d
 ---
@@ -130,7 +133,7 @@ LECTURE NOTES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Karcher-Wigderson Games and KRW <Lecture notes not available>
+Karcher-Wigderson Games and KRW \<Lecture notes not available>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +151,7 @@ Karcher-Wigderson Games and KRW <Lecture notes not available>
 15
 {{< tdclose >}}
 {{< tdopen >}}
-PCP Theorem Recap and FGLSS Reduction <Lecture notes not available>
+PCP Theorem Recap and FGLSS Reduction \<Lecture notes not available>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +197,7 @@ PCP Theorem Recap and FGLSS Reduction <Lecture notes not available>
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Parallel Repetition from Fortification <Lecture notes not available>
+Parallel Repetition from Fortification \<Lecture notes not available>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +236,7 @@ Parallel Repetition from Fortification <Lecture notes not available>
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Natural Proofs <Lecture notes not available>
+Natural Proofs \<Lecture notes not available>
 {{< tdclose >}}
 
 {{< trclose >}}

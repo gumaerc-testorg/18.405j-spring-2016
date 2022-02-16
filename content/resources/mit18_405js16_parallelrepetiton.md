@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-405j-advanced-complexity-theory-spring-2016/9208b4f06e9277c96c642650a8bd2353_MIT18_405JS16_ParallelRepetiton.pdf
+file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/9208b4f06e9277c96c642650a8bd2353_MIT18_405JS16_ParallelRepetiton.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Advanced Complexity Theory: A Survey of Parallel Repetition and Projection
   Games'

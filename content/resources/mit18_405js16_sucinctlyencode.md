@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-405j-advanced-complexity-theory-spring-2016/b13f20548991be6e7e196012a195e8c1_MIT18_405JS16_SucinctlyEncode.pdf
+file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/b13f20548991be6e7e196012a195e8c1_MIT18_405JS16_SucinctlyEncode.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Advanced Complexity Theory: A Survey of the Complexity of Succinctly Encoded
   Problems'
