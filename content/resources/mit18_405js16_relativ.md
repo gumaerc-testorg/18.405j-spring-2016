@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 448cb1cc-f997-aa14-9c10-ecb4f6a7ad1d
 resourcetype: Document
 title: MIT18_405JS16_Relativ.pdf
 uid: 95da3f6c-4aeb-f07a-34e6-dca91861f1c7

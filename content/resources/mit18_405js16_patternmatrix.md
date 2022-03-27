@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: The Pattern Matrix Method'
 uid: 291ccf41-d98a-c9ec-1745-3fb6c1fa1831

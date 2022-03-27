@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: Large Communication Complexity Classes'
 uid: 0081c17c-3235-00ad-8a19-0f6775081220

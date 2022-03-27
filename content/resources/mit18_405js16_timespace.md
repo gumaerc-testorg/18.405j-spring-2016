@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 448cb1cc-f997-aa14-9c10-ecb4f6a7ad1d
 resourcetype: Document
 title: MIT18_405JS16_TimeSpace.pdf
 uid: 4c3cdc9d-86cb-dc29-5b5f-9b2ad39cbec9

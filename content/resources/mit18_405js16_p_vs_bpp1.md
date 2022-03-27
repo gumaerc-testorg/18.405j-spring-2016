@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 448cb1cc-f997-aa14-9c10-ecb4f6a7ad1d
 resourcetype: Document
 title: '18.405J S16 Lecture 20: P vs BPP 1'
 uid: 6325f333-9f40-dc4a-33e5-d6f2cb8525a6

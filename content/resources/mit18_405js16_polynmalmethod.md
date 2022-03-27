@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: The Polynomial Method and All-Pairs Shortest Paths'
 uid: c1f729a2-0b33-3b8c-d93b-44fa79dff78a

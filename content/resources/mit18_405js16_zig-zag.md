@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: "Advanced Complexity Theory: The Zig-Zag Product and USTCON \u2208 L"
 uid: e56b49b2-100b-6e6c-67d5-d970fdbbde10

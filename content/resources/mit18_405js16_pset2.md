@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9c1b258b-21fb-ae43-bc58-8b1d1b85bfee
 resourcetype: Document
 title: 'Advanced Complexity Theory: Problem Set 2'
 uid: aa487a9b-898d-0986-ce35-98823832b30a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 377cf6e2-d62a-8f4f-2332-c93aa73d62af
 resourcetype: Document
 title: 'Advanced Complexity Theory: Descriptive Complexity and Some Unusual Quantifiers'
 uid: 6040d1aa-f27a-ef6e-15b8-dd68307f3146

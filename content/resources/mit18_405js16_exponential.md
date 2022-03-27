@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 448cb1cc-f997-aa14-9c10-ecb4f6a7ad1d
 resourcetype: Document
 title: '18.405J S16 Lecture 16: Exponential Sized PCP'
 uid: 8d6e4579-17b1-b27e-4fd1-b0ea01758414
