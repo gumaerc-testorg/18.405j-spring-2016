@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/58dc824e8cb5dc4f83f7d6201459b941_MIT18_405JS16_AC0Lower.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/58dc824e8cb5dc4f83f7d6201459b941_MIT18_405JS16_AC0Lower.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

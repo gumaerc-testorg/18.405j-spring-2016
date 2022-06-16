@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding multiparty communication
   complexity for set disjointness: A lower bound.'
-file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/791a4acb2f13e5f7be8d55d4f4d93cfe_MIT18_405JS16_Multiparty.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/791a4acb2f13e5f7be8d55d4f4d93cfe_MIT18_405JS16_Multiparty.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -15,3 +15,5 @@ title: 'Advanced Complexity Theory: Multiparty Communication Complexity for Set 
   A Lower Bound'
 uid: 791a4acb-2f13-e5f7-be8d-55d4f4d93cfe
 ---
+This resource contains information regarding multiparty communication complexity for set disjointness: A lower bound.
+

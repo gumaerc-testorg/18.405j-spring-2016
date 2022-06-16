@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/c1f729a20b333b8cd93b44fa79dff78a_MIT18_405JS16_PolynmalMethod.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/c1f729a20b333b8cd93b44fa79dff78a_MIT18_405JS16_PolynmalMethod.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

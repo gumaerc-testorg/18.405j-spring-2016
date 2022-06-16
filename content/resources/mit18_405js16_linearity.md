@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-405j-advanced-complexity-theory-spring-2016/b090bc9af298990b8aeb48a468a60a9b_MIT18_405JS16_Linearity.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/b090bc9af298990b8aeb48a468a60a9b_MIT18_405JS16_Linearity.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
