@@ -6,6 +6,7 @@ file: /courses/18-405j-advanced-complexity-theory-spring-2016/ad2ba0d36def35eb39
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Advanced Complexity Theory: Random Oracles, the Polynomial-Time Hierarch
 uid: ad2ba0d3-6def-35eb-3990-29fdeeb7f9fc
 ---
 This resource contains information regarding random oracles, the polynomial-time hierarchy, and constant-depth circuits.
-

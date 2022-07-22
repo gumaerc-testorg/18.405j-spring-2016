@@ -5,6 +5,7 @@ file: /courses/18-405j-advanced-complexity-theory-spring-2016/e3e844c67bdc5be1b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/18-405j-advanced-complexity-theory-spring-2016/e2e083f3cd3befaa72
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Advanced Complexity Theory: Some Conversations Simply Cannot Be Concise:
 uid: e2e083f3-cd3b-efaa-72f4-3d1f449ae057
 ---
 This resource contains information regarding separations between information and communication complexity for protocols.
-

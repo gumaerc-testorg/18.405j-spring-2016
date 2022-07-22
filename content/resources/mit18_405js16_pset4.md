@@ -5,6 +5,7 @@ file: /courses/18-405j-advanced-complexity-theory-spring-2016/42534f15663d4c7405
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Advanced Complexity Theory: Problem Set 4'
 uid: 42534f15-663d-4c74-05a1-56b1d9c63ded
 ---
 This file contains information regarding problem set 4.
-

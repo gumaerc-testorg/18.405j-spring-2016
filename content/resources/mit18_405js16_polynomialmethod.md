@@ -5,6 +5,7 @@ file: /courses/18-405j-advanced-complexity-theory-spring-2016/47bd984d4fefe97378
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
