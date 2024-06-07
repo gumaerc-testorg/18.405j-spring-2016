@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-405j-advanced-complexity-theory-spring-2016/491cab2df022fe59ff5f6adbe2cbb2a7_MIT18_405JS16_SuinctlyEcod.pdf
+file_size: 219178
 file_type: application/pdf
 learning_resource_types:
 - Projects
