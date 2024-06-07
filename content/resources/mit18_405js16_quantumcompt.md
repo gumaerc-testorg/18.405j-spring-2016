@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-405j-advanced-complexity-theory-spring-2016/4d5054520a7b726a9863987c5d616684_MIT18_405JS16_QuantumCompt.pdf
+file_size: 345468
 file_type: application/pdf
 learning_resource_types:
 - Projects

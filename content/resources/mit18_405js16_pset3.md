@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 3.
 file: /courses/18-405j-advanced-complexity-theory-spring-2016/4b36ab09c0a849dcf3609e74b241dd33_MIT18_405JS16_pset3.pdf
+file_size: 211904
 file_type: application/pdf
 learning_resource_types:
 - Assignments

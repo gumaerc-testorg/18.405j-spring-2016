@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-405j-advanced-complexity-theory-spring-2016/1b2c1d36df1e2a9cfa79d6531ffb8d29_MIT18_405JS16_IntroPCP.pdf
+file_size: 274544
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-405j-advanced-complexity-theory-spring-2016/e3e844c67bdc5be1b032e3f10673f89e_MIT18_405JS16_CircuitLower.pdf
+file_size: 216722
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
