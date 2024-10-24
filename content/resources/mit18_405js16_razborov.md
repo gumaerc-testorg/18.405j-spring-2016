@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/7da23045f5aa17dc72c329c23b3b6c94_MIT18_405JS16_Razborov.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/7da23045f5aa17dc72c329c23b3b6c94_MIT18_405JS16_Razborov.pdf
 file_size: 268043
 file_type: application/pdf
 learning_resource_types:

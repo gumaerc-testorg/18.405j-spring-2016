@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding random oracles, the polynomial-time
   hierarchy, and constant-depth circuits.
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/ad2ba0d36def35eb399029fdeeb7f9fc_MIT18_405JS16_RandomOracle.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/ad2ba0d36def35eb399029fdeeb7f9fc_MIT18_405JS16_RandomOracle.pdf
 file_size: 442396
 file_type: application/pdf
 learning_resource_types:
