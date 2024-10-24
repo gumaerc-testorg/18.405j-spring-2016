@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/291ccf41d98ac9ec17453fb6c1fa1831_MIT18_405JS16_PatternMatrix.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/291ccf41d98ac9ec17453fb6c1fa1831_MIT18_405JS16_PatternMatrix.pdf
 file_size: 342432
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/b13f20548991be6e7e196012a195e8c1_MIT18_405JS16_SucinctlyEncode.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/b13f20548991be6e7e196012a195e8c1_MIT18_405JS16_SucinctlyEncode.pdf
 file_size: 219178
 file_type: application/pdf
 learning_resource_types:
