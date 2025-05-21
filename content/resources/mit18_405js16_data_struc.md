@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding data structure lower bounds
   via communication complexity. '
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/f373ff7db6f99debba9256050d372980_MIT18_405JS16_Data_Struc.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/f373ff7db6f99debba9256050d372980_MIT18_405JS16_Data_Struc.pdf
 file_size: 277563
 file_type: application/pdf
 learning_resource_types:

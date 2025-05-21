@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 4.
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/42534f15663d4c7405a156b1d9c63ded_MIT18_405JS16_pset4.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/42534f15663d4c7405a156b1d9c63ded_MIT18_405JS16_pset4.pdf
 file_size: 348309
 file_type: application/pdf
 learning_resource_types:

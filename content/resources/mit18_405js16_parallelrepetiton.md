@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/9208b4f06e9277c96c642650a8bd2353_MIT18_405JS16_ParallelRepetiton.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/9208b4f06e9277c96c642650a8bd2353_MIT18_405JS16_ParallelRepetiton.pdf
 file_size: 321659
 file_type: application/pdf
 learning_resource_types:
