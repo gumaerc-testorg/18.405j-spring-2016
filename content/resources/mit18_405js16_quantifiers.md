@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding descriptive complexity and
   some unusual quantifiers.
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/6040d1aaf27aef6e15b8dd68307f3146_MIT18_405JS16_Quantifiers.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/6040d1aaf27aef6e15b8dd68307f3146_MIT18_405JS16_Quantifiers.pdf
 file_size: 202417
 file_type: application/pdf
 learning_resource_types:

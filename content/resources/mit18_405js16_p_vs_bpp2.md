@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/60827e3dcf88561447a094b8d05a1d84_MIT18_405JS16_P_vs_BPP2.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/60827e3dcf88561447a094b8d05a1d84_MIT18_405JS16_P_vs_BPP2.pdf
 file_size: 349798
 file_type: application/pdf
 learning_resource_types:

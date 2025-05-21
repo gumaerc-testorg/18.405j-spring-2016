@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/c9a86554e854dabd3a5f8027d2878e74_MIT18_405JS16_SumCheck.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/c9a86554e854dabd3a5f8027d2878e74_MIT18_405JS16_SumCheck.pdf
 file_size: 254506
 file_type: application/pdf
 learning_resource_types:

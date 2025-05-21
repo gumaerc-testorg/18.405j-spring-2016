@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/1b836871d814af3b63c17f8016c6f064_MIT18_405JS16_Quantumcomputng.pdf
+file: /courses/18-405j-advanced-complexity-theory-spring-2016/1b836871d814af3b63c17f8016c6f064_MIT18_405JS16_Quantumcomputng.pdf
 file_size: 345468
 file_type: application/pdf
 learning_resource_types:
