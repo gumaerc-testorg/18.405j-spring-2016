@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding unambiguous computation.
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/c4aa188561e1e9019a2632a2c4345983_MIT18_405JS16_Unambiguous.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/c4aa188561e1e9019a2632a2c4345983_MIT18_405JS16_Unambiguous.pdf
 file_size: 351868
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/0ba80f0c51a1e1068387227296478e92_MIT18_405JS16_SAT_Problems.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/0ba80f0c51a1e1068387227296478e92_MIT18_405JS16_SAT_Problems.pdf
 file_size: 335350
 file_type: application/pdf
 learning_resource_types:
