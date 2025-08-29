@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-405j-advanced-complexity-theory-spring-2016/8d6e457917b1b27e4fd1b0ea01758414_MIT18_405JS16_Exponential.pdf
+file: /ol-ocw-studio-app/courses/18-405j-advanced-complexity-theory-spring-2016/8d6e457917b1b27e4fd1b0ea01758414_MIT18_405JS16_Exponential.pdf
 file_size: 418840
 file_type: application/pdf
 learning_resource_types:
