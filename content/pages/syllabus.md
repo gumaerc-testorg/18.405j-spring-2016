@@ -39,9 +39,9 @@ This graduate-level course focuses on current research topics in computational c
 
 The primary written reference for the course is
 
-Arora, Sanjeev, and Boaz Barak. *Computational Complexity: A Modern Approach*. Cambridge University Press, 2009. ISBN: 9780521424264. \[Preview with {{% resource_link "09c11cc6-df0e-4329-8c47-cea9ec2cc678" "Google Books" %}}\]
+Arora, Sanjeev, and Boaz Barak. *Computational Complexity: A Modern Approach*. Cambridge University Press, 2009. ISBN: 9780521424264. \[Preview with [Google Books](http://books.google.com/books?id=8Wjqvsoo48MC&pg=PAfrontcover)\]
 
-{{% resource_link "95280848-f7b7-4583-a0be-114379fd64df" "A draft of *Computational Complexity: A Modern Approach* is available online" %}} free of charge, but the latest edition contains corrections and improvements.
+[A draft of *Computational Complexity: A Modern Approach* is available online](http://theory.cs.princeton.edu/complexity/) free of charge, but the latest edition contains corrections and improvements.
 
 ## Problem Sets
 
