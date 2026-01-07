@@ -100,7 +100,7 @@ LECTURE NOTES
 8–9
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "c819d02c-c7ab-4b80-b315-41d713746d28" "NEXP vs ACC0 (Addendum to Arora-Barak) (PDF)" %}}
+[NEXP vs ACC0 (Addendum to Arora-Barak) (PDF)](http://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,9 +111,9 @@ LECTURE NOTES
 {{< tdopen >}}
 
 
-{{% resource_link "43ec232c-ffe3-4c10-b145-0f1654419e13" "Communication Complexity 1 (PDF)" %}}
+[Communication Complexity 1 (PDF)](http://www.cs.toronto.edu/~toni/Courses/CommComplexity2014/Lectures/lecture1.pdf)
 
-{{% resource_link "0469ee14-9a8a-4c18-a803-064a94d16cec" "Lower Bounds for Deterministic Communication (PDF)" %}}
+[Lower Bounds for Deterministic Communication (PDF)](http://www.cs.toronto.edu/~toni/Courses/CommComplexity2014/Lectures/lecture2.pdf)
 
 
 {{< tdclose >}}
